@@ -1,0 +1,1 @@
+ C:\\Users\\bongi\\OneDrive\\Documentos\\toiletapp\\.dart_tool\\flutter_build\\c90415424a769dd2e6ed894140a85040\\native_assets.yaml: 
